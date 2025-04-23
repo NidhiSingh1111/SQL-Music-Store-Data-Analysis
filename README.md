@@ -6,10 +6,10 @@ This project focuses on analyzing music store data with SQL. The dataset has 11 
 # Project Structure
 The project repository is structured as follows:
 
-├── data/                  # Directory containing the dataset
+├── data/                   # Directory containing the dataset
 ├── queries/               # Directory containing SQL query files
 └── README.md              # Project README file
----
+---****
 
 # Usage
 Clone the repository:
