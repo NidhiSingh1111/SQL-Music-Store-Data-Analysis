@@ -18,7 +18,8 @@ The project repository is structured as follows:
 # Usage
 Clone the repository:
 
-git clone https://github.com/NidhiSingh1111/SQL-Music-Store-Data-Analysis.git
-Import the dataset into your SQL database management system.
+1.git clone https://github.com/NidhiSingh1111/SQL-Music-Store-Data-Analysis.git.
 
-Run SQL queries located in the queries/ directory against the database to perform data analysis and generate insights.
+2.Import the dataset into your SQL database management system.
+
+3.Run SQL queries located in the queries/ directory against the database to perform data analysis and generate insights.
