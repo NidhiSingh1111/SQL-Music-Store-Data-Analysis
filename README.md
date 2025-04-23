@@ -7,18 +7,18 @@ This project focuses on analyzing music store data with SQL. The dataset has 11 
 # Project Structure
 The project repository is structured as follows:
 
-├── data/                                # Directory containing the dataset
+├── data/                                              # Directory containing the dataset
 
-├── queries/                             # Directory containing SQL query files
+├── queries/                                           # Directory containing SQL query files
 
-└── README.md                            # Project README file
+└── README.md                                          # Project README file
 
 ---
 
 # Usage
 Clone the repository:
 
-git clone https://github.com/kishlayjeet/Music-Store-Data-Analysis.git
+git clone https://github.com/NidhiSingh1111/SQL-Music-Store-Data-Analysis.git
 Import the dataset into your SQL database management system.
 
 Run SQL queries located in the queries/ directory against the database to perform data analysis and generate insights.
