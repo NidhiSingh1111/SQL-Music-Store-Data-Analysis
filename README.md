@@ -1,17 +1,19 @@
 # SQL-Music-Store-Data-Analysis 🎧
 
 This project focuses on analyzing music store data with SQL. The dataset has 11 tables: Employee, Customer, Invoice, InvoiceLine, Track, MediaType, Genre, Album, Artist, PlaylistTrack, and Playlist. This project intends to answer many questions and obtain important insights into the music store's operations by applying SQL queries to the dataset.
----**
+
+---
 
 # Project Structure
 The project repository is structured as follows:
 
-├── data/                   # Directory containing the dataset
+├── data/                                # Directory containing the dataset
 
-├── queries/               # Directory containing SQL query files
+├── queries/                             # Directory containing SQL query files
 
-└── README.md              # Project README file
----****
+└── README.md                            # Project README file
+
+---
 
 # Usage
 Clone the repository:
